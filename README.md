@@ -89,6 +89,7 @@ pip install -r requirements.txt
 python generate_data.py
 python model.py
 streamlit run app.py
+```
 ---
 
 ## Dashboard Features

@@ -67,6 +67,7 @@ This project demonstrates how **sensor-like data** (Wi-Fi device counts) can be 
 ---
 
 ## 📂 Project Structure
+```
 classroom_usage_forecasting/
 │
 ├── app.py # Streamlit dashboard
@@ -77,7 +78,7 @@ classroom_usage_forecasting/
 └── data/
 ├── wifi_occupancy.csv # Simulated sensor data
 └── electricity_usage.csv # Derived electricity usage
-
+```
 
 ---
 

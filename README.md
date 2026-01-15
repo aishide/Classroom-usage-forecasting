@@ -92,7 +92,7 @@ streamlit run app.py
 ```
 ---
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 - 📈 **Historical electricity usage** – View the classroom electricity consumption over time.  
 - 🔮 **Short-term electricity forecasting** – Forecast the next 30–180 minutes of electricity usage using ARIMA.  

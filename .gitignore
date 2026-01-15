@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+.streamlit/
+.env
+*.pyc
+data/*.csv
